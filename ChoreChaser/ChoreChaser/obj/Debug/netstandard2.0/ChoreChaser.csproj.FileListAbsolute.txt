@@ -1,0 +1,14 @@
+/Users/dereklewis/Library/CloudStorage/OneDrive-Personal/PUG/IT488 Software Product Development Using Agile/ChoreChaser/ChoreChaser/ChoreChaser/bin/Debug/netstandard2.0/ChoreChaser.deps.json
+/Users/dereklewis/Library/CloudStorage/OneDrive-Personal/PUG/IT488 Software Product Development Using Agile/ChoreChaser/ChoreChaser/ChoreChaser/bin/Debug/netstandard2.0/ChoreChaser.dll
+/Users/dereklewis/Library/CloudStorage/OneDrive-Personal/PUG/IT488 Software Product Development Using Agile/ChoreChaser/ChoreChaser/ChoreChaser/bin/Debug/netstandard2.0/ref/ChoreChaser.dll
+/Users/dereklewis/Library/CloudStorage/OneDrive-Personal/PUG/IT488 Software Product Development Using Agile/ChoreChaser/ChoreChaser/ChoreChaser/bin/Debug/netstandard2.0/ChoreChaser.pdb
+/Users/dereklewis/Library/CloudStorage/OneDrive-Personal/PUG/IT488 Software Product Development Using Agile/ChoreChaser/ChoreChaser/ChoreChaser/obj/Debug/netstandard2.0/ChoreChaser.csproj.AssemblyReference.cache
+/Users/dereklewis/Library/CloudStorage/OneDrive-Personal/PUG/IT488 Software Product Development Using Agile/ChoreChaser/ChoreChaser/ChoreChaser/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/dereklewis/Library/CloudStorage/OneDrive-Personal/PUG/IT488 Software Product Development Using Agile/ChoreChaser/ChoreChaser/ChoreChaser/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/dereklewis/Library/CloudStorage/OneDrive-Personal/PUG/IT488 Software Product Development Using Agile/ChoreChaser/ChoreChaser/ChoreChaser/obj/Debug/netstandard2.0/ChoreChaser.AssemblyInfoInputs.cache
+/Users/dereklewis/Library/CloudStorage/OneDrive-Personal/PUG/IT488 Software Product Development Using Agile/ChoreChaser/ChoreChaser/ChoreChaser/obj/Debug/netstandard2.0/ChoreChaser.AssemblyInfo.cs
+/Users/dereklewis/Library/CloudStorage/OneDrive-Personal/PUG/IT488 Software Product Development Using Agile/ChoreChaser/ChoreChaser/ChoreChaser/obj/Debug/netstandard2.0/ChoreChaser.csproj.CoreCompileInputs.cache
+/Users/dereklewis/Library/CloudStorage/OneDrive-Personal/PUG/IT488 Software Product Development Using Agile/ChoreChaser/ChoreChaser/ChoreChaser/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/dereklewis/Library/CloudStorage/OneDrive-Personal/PUG/IT488 Software Product Development Using Agile/ChoreChaser/ChoreChaser/ChoreChaser/obj/Debug/netstandard2.0/ChoreChaser.dll
+/Users/dereklewis/Library/CloudStorage/OneDrive-Personal/PUG/IT488 Software Product Development Using Agile/ChoreChaser/ChoreChaser/ChoreChaser/obj/Debug/netstandard2.0/ref/ChoreChaser.dll
+/Users/dereklewis/Library/CloudStorage/OneDrive-Personal/PUG/IT488 Software Product Development Using Agile/ChoreChaser/ChoreChaser/ChoreChaser/obj/Debug/netstandard2.0/ChoreChaser.pdb

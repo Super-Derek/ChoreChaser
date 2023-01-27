@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- xlmns: local... added xml namespace to bind xaml file with view model ... Plugin Kit is from NuGet package to access the checkbox used       -->
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ChoreChaser"
+             xmlns:input="clr-namespace:Plugin.InputKit.Shared.Controls;assembly=Plugin.InputKit"
+             x:Class="ChoreChaser.MainPage">
+
+<!-- This completes the binding  of xaml file and view model      -->
+    <ContentPage.BindingContext>
+        <local:ToDoListViewModel />
+    </ContentPage.BindingContext>
+
+
+    <StackLayout>
+        <!-- x:Name allows to call this entry box within c# code to use input as value
+               TextChanged="HandleTextChanged"
+               Completed="HandleEnterPress"
+               The above attributes are unneeded since binding and have been removed
+                ReturnCommand binds the return (enter press) to the AddToDoCommand method
+        -->
+        <Entry
+               x:Name="InputField"    
+               Text="{Binding NewToDoInputValue}"
+               Placeholder="Enter a todo"
+               ReturnCommand="{Binding AddToDoCommand}"
+        />
+
+        <!-- x:ToDoList creates a layout where the enterpress click event creates label of text input . Also, changed stack layout to list view for observable collection         -->
+        <!--  This  binds the list view to the ToDoItems within list view     -->
+        <!--  DataTemplate allows to  access pieces of data within the ToDoItems   -->
+        <ListView x:Name="ToDoList" ItemsSource="{Binding ToDoItems}" >
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+
+                        <FlexLayout JustifyContent="SpaceBetween" AlignItems="Center" Padding="10, 10">
+
+                            <ContentView>
+                                <FlexLayout AlignItems="Center">
+
+                                    <input:CheckBox
+                                        IsChecked="{Binding Complete}"
+                                        />
+
+                                    <Label Text="{Binding ToDoText}" FontSize="Large" />
+
+                                </FlexLayout>
+                            </ContentView>
+
+                            <ImageButton
+                                Source="delete.png"
+                                Scale="1.75"
+                                Command="{Binding Path=BindingContext.RemoveToDoCommand, Source={x:Reference ToDoList}}"
+                                CommandParameter="{Binding .}"
+                            />
+
+                        </FlexLayout>
+
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+  
+    </StackLayout>
+
+
+</ContentPage>
+

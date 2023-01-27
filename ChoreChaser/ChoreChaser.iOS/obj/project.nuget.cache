@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wUTMFdQIHJltPu8acE1ui1OjPMA469AyN1Dn54/l7vkL2q7B44NeL/wOqS1bIa/0Y0Xw/uEI1cQcFNRp2QpFIA==",
+  "success": true,
+  "projectFilePath": "/Users/dereklewis/Library/CloudStorage/OneDrive-Personal/PUG/IT488 Software Product Development Using Agile/ChoreChaser/ChoreChaser/ChoreChaser.iOS/ChoreChaser.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/dereklewis/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/dereklewis/.nuget/packages/xamarin.essentials/1.7.4/xamarin.essentials.1.7.4.nupkg.sha512",
+    "/Users/dereklewis/.nuget/packages/xamarin.forms/5.0.0.2545/xamarin.forms.5.0.0.2545.nupkg.sha512",
+    "/Users/dereklewis/.nuget/packages/xamarin.forms.inputkit/4.1.6/xamarin.forms.inputkit.4.1.6.nupkg.sha512"
+  ],
+  "logs": []
+}

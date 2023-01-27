@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "JH7C/mudY39kuo8tMtjoUcBtDmBoQz+x4vaKLTVNVtO+0hfqluOpITcLfjG+nHcDtFCF2P9s/z0qViLsVTeUKg==",
+  "success": true,
+  "projectFilePath": "/Users/dereklewis/Library/CloudStorage/OneDrive-Personal/PUG/IT488 Software Product Development Using Agile/ChoreChaser/ChoreChaser/ChoreChaser/ChoreChaser.csproj",
+  "expectedPackageFiles": [
+    "/Users/dereklewis/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/dereklewis/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/dereklewis/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/dereklewis/.nuget/packages/xamarin.essentials/1.7.4/xamarin.essentials.1.7.4.nupkg.sha512",
+    "/Users/dereklewis/.nuget/packages/xamarin.forms/5.0.0.2545/xamarin.forms.5.0.0.2545.nupkg.sha512",
+    "/Users/dereklewis/.nuget/packages/xamarin.forms.inputkit/4.1.6/xamarin.forms.inputkit.4.1.6.nupkg.sha512"
+  ],
+  "logs": []
+}
